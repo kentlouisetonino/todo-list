@@ -1,6 +1,6 @@
 ## Description
 - A traditional todo list web application with simple CRUD functionalities.
-- This is intended for practice purposes only to test my knowledge in Redux Toolkit.
+- This is intended for practice only to test my knowledge in Redux Toolkit.
 
 <br />
 
