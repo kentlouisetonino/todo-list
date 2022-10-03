@@ -18,4 +18,5 @@ npm start
 <br />
 
 ## Recordings
-[Todo List App Testing.webm](https://user-images.githubusercontent.com/69438999/193597494-e53a7ade-c61e-4104-b081-0b31f6b0f4b8.webm)
+[Todo List Application Testing.webm](https://user-images.githubusercontent.com/69438999/193600664-b700855c-d4f2-4bfe-b279-e9bf2ae6ab4e.webm)
+
