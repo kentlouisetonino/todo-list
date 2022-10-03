@@ -19,7 +19,7 @@ const Item = ({ id, title, completed }) => {
   }
 
   return (
-    <li className={`list-group-item ${completed && 'list-group-item-success'}`}>
+    <li className={`list-group-item ${completed && 'list-group-item-info'}`}>
       <div className='d-flex justify-content-between'>
         <span className='d-flex align-items-center'>
           <input
