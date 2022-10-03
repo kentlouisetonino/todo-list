@@ -1,4 +1,4 @@
-import { createSlice } from "@reduxjs/toolkit";
+import { createSlice } from '@reduxjs/toolkit'
 
 const todoSlice = createSlice({
   name: 'todos',
@@ -18,8 +18,8 @@ const todoSlice = createSlice({
     },
     deleteTodo: (state, action) => {
       return state.filter((todo) => todo.id !== action.payload.id)
-    }
-  }
+    },
+  },
 })
 
 export const { addTodo, updateTodo, deleteTodo } = todoSlice.actions
