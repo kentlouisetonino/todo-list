@@ -21,7 +21,6 @@ const Form = () => {
 
   return (
     <form onSubmit={onSubmit} className='form-inline mt-3 mb-3'>
-      <label className='sr-only'>Name</label>
       <input
         type='text'
         className='form-control mb-2 mr-sm-2 w-50'
@@ -31,7 +30,7 @@ const Form = () => {
       ></input>
       <button
         type='submit'
-        className='btn btn-primary w-25 mb-2 font-weight-bold'
+        className='btn btn-secondary w-25 mb-2 font-weight-bold'
       >
         Submit
       </button>

@@ -30,7 +30,7 @@ const Item = ({ id, title, completed }) => {
           ></input>
           {title}
         </span>
-        <button className='btn btn-danger' onClick={() => handleDelete()}>
+        <button className='btn btn-warning' onClick={() => handleDelete()}>
           Delete
         </button>
       </div>
