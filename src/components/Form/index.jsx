@@ -9,11 +9,14 @@ const Form = () => {
 
   const onSubmit = (event) => {
     event.preventDefault()
+
     dispatch(
       addTodo({
         title: value,
-      })
+      }),
     )
+
+    setValue('')
   }
 
   return (
@@ -21,13 +24,15 @@ const Form = () => {
       <label className='sr-only'>Name</label>
       <input
         type='text'
-        className='form-control mb-2 mr-sm-2'
-        placeholder='Add todo...'
+        className='form-control mb-2 mr-sm-2 w-50'
+        placeholder='Add todo here'
         value={value}
         onChange={(event) => setValue(event.target.value)}
       ></input>
-
-      <button type='submit' className='btn btn-primary mb-2'>
+      <button
+        type='submit'
+        className='btn btn-primary w-25 mb-2 font-weight-bold'
+      >
         Submit
       </button>
     </form>

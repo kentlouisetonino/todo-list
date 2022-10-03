@@ -3,10 +3,15 @@ import { useSelector } from 'react-redux'
 
 const CompletedItems = () => {
   const completedTodos = useSelector((state) =>
-    state.todos.filter((todo) => todo.completed === true)
+    state.todos.filter((todo) => todo.completed === true),
   )
 
-  return <h4 className='mt-3'>Total Complete Items: {completedTodos.length}</h4>
+  return (
+    <h5 className='mt-3 font-weight-light'>
+      Completed Items:{' '}
+      <span className='font-weight-bolder'>{completedTodos.length}</span>
+    </h5>
+  )
 }
 
 export default CompletedItems

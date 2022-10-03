@@ -14,7 +14,7 @@ const Item = ({ id, title, completed }) => {
     dispatch(
       deleteTodo({
         id: id,
-      })
+      }),
     )
   }
 
