@@ -10,6 +10,7 @@ const todoSlice = createSlice({
         title: action.payload.title,
         completed: false,
       }
+
       state.push(newTodo)
     },
     updateTodo: (state, action) => {
