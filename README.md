@@ -5,7 +5,7 @@
 <br />
 
 ## Technologies | Packages | Tools
-- Frontend: ReactJS, Redux Toolkit, JavaScript
+- Frontend: Bootstrap, ReactJS, Redux Toolkit, JavaScript
 
 <br />
 
