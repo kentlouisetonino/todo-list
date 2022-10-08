@@ -1,5 +1,5 @@
 ## Description
-- A traditional todo list web application with simple CRUD functionalities.
+- A traditional Todo List Web Application with simple CRUD functionalities.
 - This is intended for practice only to test my knowledge in Redux Toolkit.
 
 <br />
