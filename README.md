@@ -1,15 +1,20 @@
 ## Description
-- _A traditional Todo List Web Application with simple CRUD functionalities._
-- _This is intended for practice only to test my knowledge in Redux Toolkit._
+> _A traditional Todo List Web Application with simple CRUD functionalities. This is intended for practice only to test my knowledge in Redux Toolkit._
 
-## Technology
-- _Frontend: Bootstrap, ReactJS, Redux Toolkit, JavaScript_
+<br />
+
+## Technology Stack
+> _**Frontend** : Bootstrap • ReactJS • Redux Toolkit • JavaScript_
+
+<br />
 
 ## Setup
-- _Run the following commands._
+> - _Run the following commands._
 ```bash
 npm start
 ```
+
+<br />
 
 ## Recording
 [Todo List Testing.webm](https://user-images.githubusercontent.com/69438999/193601639-58adb8c1-e127-45b5-9cbf-2e3ac2719de4.webm)
