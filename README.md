@@ -4,7 +4,7 @@
 <br />
 
 ## Technology Stack
-> _**Frontend** : Bootstrap • ReactJS • Redux Toolkit • JavaScript_
+> _ReactJS • Redux Toolkit • JavaScript_
 
 <br />
 
