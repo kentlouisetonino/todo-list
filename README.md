@@ -1,6 +1,8 @@
 ## Description
 > _A traditional Todo List Web Application with simple CRUD functionalities. This is intended for practice only to test my knowledge in Redux Toolkit._
 
+> _**Link**: [Web Application](https://todolist-kentlouisetonino.vercel.app/)_
+
 <br />
 
 ## Technology Stack
