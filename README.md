@@ -17,6 +17,8 @@
 > - Run the following commands.
 
 ```bash
+npm install
+npm run build
 npm start
 ```
 
