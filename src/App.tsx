@@ -1,15 +1,14 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
-import React from 'react'
 
-import Header from './components/Header'
+import CompletedItems from './components/CompletedItems'
 import Footer from './components/Footer'
 import Form from './components/Form'
+import Header from './components/Header'
 import List from './components/List'
-import CompletedItems from './components/CompletedItems'
 
-const App = () => {
+export default function App() {
   return (
-    <div className='container bg-white p-4 mt-5'>
+    <div className="container bg-white p-4 mt-5">
       <Header />
       <Form />
       <List />
@@ -18,5 +17,3 @@ const App = () => {
     </div>
   )
 }
-
-export default App
