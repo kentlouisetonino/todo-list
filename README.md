@@ -8,7 +8,7 @@
 
 ## Technology Stack
 
-> _Bootstrap • ReactJS • Redux Toolkit • TypeScript_
+> _Bootstrap • ReactJS • Redux Toolkit • TypeScript • Github Actions Workflow • Vercel_
 
 <br />
 
