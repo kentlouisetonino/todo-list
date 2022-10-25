@@ -1,20 +1,20 @@
 ## Description
 
-> _A traditional Todo List Web Application with simple CRUD functionalities. This is intended for practice only to test my knowledge in Redux Toolkit._
+> A traditional Todo List Web Application with simple CRUD functionalities. This is intended for practice only to test my knowledge in Redux Toolkit.
 
-> _**Link**: [Web Application](https://todolist-kentlouisetonino.vercel.app/)_
+> **Link**: [Web Application](https://todolist-kentlouisetonino.vercel.app/)
 
 <br />
 
 ## Technology Stack
 
-> _Bootstrap • ReactJS • Redux Toolkit • TypeScript • Github Actions Workflow • Vercel_
+> Bootstrap • ReactJS • Redux Toolkit • TypeScript • Github Actions Workflow • Vercel
 
 <br />
 
 ## Setup
 
-> - _Run the following commands._
+> - Run the following commands.
 
 ```bash
 npm start
