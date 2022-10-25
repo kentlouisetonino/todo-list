@@ -8,7 +8,7 @@
 
 ## Technology Stack
 
-> _ReactJS • Redux Toolkit • TypeScript_
+> _Bootstrap • ReactJS • Redux Toolkit • TypeScript_
 
 <br />
 
