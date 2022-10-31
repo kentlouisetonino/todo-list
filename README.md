@@ -8,7 +8,7 @@
 
 ## Technology Stack
 
-> Bootstrap • ReactJS • Redux Toolkit • TypeScript • Github Actions Workflow • Vercel
+> [Bootstrap](https://www.npmjs.com/package/bootstrap) • [ReactJS](https://www.npmjs.com/package/react) • [Redux Toolkit](https://www.npmjs.com/package/@reduxjs/toolkit) • [TypeScript](https://www.npmjs.com/package/typescript) • [Github Actions Workflow](https://docs.github.com/en/actions/using-workflows/about-workflows) • [Vercel](https://vercel.com/)
 
 <br />
 
