@@ -1,6 +1,6 @@
 ## Description
 
-> A Client-Side application with simple CRUD functionalities. This is intended for practice only to test my knowledge in Redux Toolkit.
+> A computer program with simple CRUD functionalities. This is intended for practice only to test my knowledge in Redux Toolkit.
 
 > **Link**: [Web Application](https://todolist.kentlouisetonino.vercel.app/)
 
